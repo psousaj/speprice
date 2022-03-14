@@ -1,5 +1,4 @@
-urllib.request
 urlopen
 requests
 colorama
-twilio.rest
+twilio
