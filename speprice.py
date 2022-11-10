@@ -73,14 +73,14 @@ def _main_():
             print('Mensagem enviada')
             ok = True
             break
-        
+recall()        
 def recall():
     global ok
     if ok == True:
         _main_()
 
 _main_()
-recall()
+
 
 #print(content)
 #print('"{}"'.format(bs.title.string)+" é o nome da tag")
